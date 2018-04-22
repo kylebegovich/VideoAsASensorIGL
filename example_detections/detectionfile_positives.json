@@ -1,0 +1,99 @@
+{
+ "type" : "cyclist", 
+ "detections" : [
+[
+{
+ "x" : 0.730, 
+ "y":0.495, 
+ "confidence" : 0.620, 
+ "name": "person", 
+ "w" : 0.075, 
+ "h": 0.246, 
+ "is_compound_object" : 1 
+},
+{
+ "x" : 0.741, 
+ "y":0.570, 
+ "confidence" : 0.668, 
+ "name": "bicycle", 
+ "w" : 0.066, 
+ "h" : 0.178, 
+ "is_compound_object" : 1 
+ } 
+],[
+{
+ "x" : 0.961, 
+ "y":0.495, 
+ "confidence" : 0.677, 
+ "name": "person", 
+ "w" : 0.066, 
+ "h": 0.226, 
+ "is_compound_object" : 1 
+},
+{
+ "x" : 0.967, 
+ "y":0.572, 
+ "confidence" : 0.624, 
+ "name": "bicycle", 
+ "w" : 0.055, 
+ "h" : 0.143, 
+ "is_compound_object" : 1 
+ } 
+],[
+{
+ "x" : 0.227, 
+ "y":0.496, 
+ "confidence" : 0.837, 
+ "name": "person", 
+ "w" : 0.118, 
+ "h": 0.310, 
+ "is_compound_object" : 1 
+},
+{
+ "x" : 0.217, 
+ "y":0.599, 
+ "confidence" : 0.865, 
+ "name": "bicycle", 
+ "w" : 0.229, 
+ "h" : 0.200, 
+ "is_compound_object" : 1 
+ } 
+],[
+{
+ "x" : 0.464, 
+ "y":0.493, 
+ "confidence" : 0.831, 
+ "name": "person", 
+ "w" : 0.145, 
+ "h": 0.332, 
+ "is_compound_object" : 1 
+},
+{
+ "x" : 0.468, 
+ "y":0.599, 
+ "confidence" : 0.866, 
+ "name": "bicycle", 
+ "w" : 0.242, 
+ "h" : 0.224, 
+ "is_compound_object" : 1 
+ } 
+],[
+{
+ "x" : 0.881, 
+ "y":0.550, 
+ "confidence" : 0.847, 
+ "name": "person", 
+ "w" : 0.127, 
+ "h": 0.296, 
+ "is_compound_object" : 1 
+},
+{
+ "x" : 0.877, 
+ "y":0.658, 
+ "confidence" : 0.753, 
+ "name": "bicycle", 
+ "w" : 0.096, 
+ "h" : 0.256, 
+ "is_compound_object" : 1 
+ } 
+]]}

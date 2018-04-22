@@ -1,0 +1,54 @@
+[
+{
+ "type" : "person", 
+ "detections" : [
+{
+ "x" : 0.534, 
+ "y":0.476, 
+ "confidence" : 0.872, 
+ "name": "person", 
+ "w" : 0.141, 
+ "h": 0.589 
+},{
+ "x" : 0.839, 
+ "y":0.526, 
+ "confidence" : 0.840, 
+ "name": "person", 
+ "w" : 0.173, 
+ "h": 0.583 
+},{
+ "x" : 0.282, 
+ "y":0.601, 
+ "confidence" : 0.899, 
+ "name": "person", 
+ "w" : 0.243, 
+ "h" : 0.677 
+ } 
+]}
+,{
+ "type" : "bicycle", 
+ "detections" : [
+{
+ "x" : 0.534, 
+ "y":0.650, 
+ "confidence" : 0.701, 
+ "name": "bicycle", 
+ "w" : 0.124, 
+ "h": 0.372 
+},{
+ "x" : 0.830, 
+ "y":0.744, 
+ "confidence" : 0.739, 
+ "name": "bicycle", 
+ "w" : 0.155, 
+ "h": 0.432 
+},{
+ "x" : 0.276, 
+ "y":0.786, 
+ "confidence" : 0.853, 
+ "name": "bicycle", 
+ "w" : 0.277, 
+ "h" : 0.403 
+ } 
+]}
+ ]

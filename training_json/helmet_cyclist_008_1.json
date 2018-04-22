@@ -1,0 +1,26 @@
+[
+{
+ "type" : "person", 
+ "detections" : [
+{
+ "x" : 0.505, 
+ "y":0.432, 
+ "confidence" : 0.926, 
+ "name": "person", 
+ "w" : 0.242, 
+ "h" : 0.760 
+ } 
+]}
+,{
+ "type" : "bicycle", 
+ "detections" : [
+{
+ "x" : 0.503, 
+ "y":0.685, 
+ "confidence" : 0.853, 
+ "name": "bicycle", 
+ "w" : 0.212, 
+ "h" : 0.491 
+ } 
+]}
+ ]

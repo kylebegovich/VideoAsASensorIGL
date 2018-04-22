@@ -1,0 +1,1 @@
+/usr/local/Cellar/opencv/3.4.1/lib/python2.7/site-packages/cv.py
