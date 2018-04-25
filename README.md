@@ -1,3 +1,13 @@
+# Video As a Sensor
+We are a project group studying the use of video as a sensor under Prof. Richard Sowers. Since January 2017 we've been working to improve the darknet framework (below), add privacy maintaining features, and analyze risk using these tools.
+
+
+
+
+
+
+
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 #Darknet#
